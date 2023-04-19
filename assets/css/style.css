@@ -21,8 +21,8 @@ header {
 }
 
 header img {
-    width: 5vw;
-    height: 5vw;
+    width: 10vw;
+    height: 10vw;
     border-radius: 50%;
 }
 
@@ -152,6 +152,7 @@ main {
     background: rgb(32, 226, 77);
     background: linear-gradient(180deg, rgba(32, 226, 77, 0.6054796918767507) 0%, rgba(80, 237, 201, 1) 55%, rgba(77, 255, 91, 1) 100%);
     border: 3px solid rgb(150, 201, 218);
+    border-radius: 15px;
 }
 
 .featured-container {
@@ -159,6 +160,8 @@ main {
     background-color: rgb(150, 201, 218);
     margin-bottom: 3%;
     box-shadow: 1px 1px 10px;
+    border-radius: 15px;
+
 }
 
 .container-2-box-2 h4 {
@@ -195,6 +198,7 @@ main {
     background: linear-gradient(180deg, rgba(3, 28, 91, 0.6054796918767507) 0%, rgba(80, 160, 237, 1) 55%, rgba(0, 212, 255, 1) 100%);
     border: 3px solid rgb(150, 201, 218);
     margin-right: 7.5px;
+    border-radius: 15px;
 }
 
 .project-3 {
@@ -218,6 +222,7 @@ main {
     background-color: rgb(150, 201, 218);
     margin-bottom: 3%;
     box-shadow: 1px 1px 10px;
+    border-radius: 15px;
 }
 
 .projects h3 {
@@ -241,6 +246,7 @@ main {
     background: rgb(3, 28, 91);
     background: linear-gradient(180deg, rgba(3, 28, 91, 0.6054796918767507) 0%, rgba(80, 160, 237, 1) 55%, rgba(0, 212, 255, 1) 100%);
     border: 3px solid rgb(150, 201, 218);
+    border-radius: 15px;
 }
 
 .project-4 {
@@ -327,8 +333,8 @@ a h3:hover {
 
     header img {
         padding-bottom: 0px;
-        width: 12vw;
-        height: 12vw;
+        width: 20vw;
+        height: 20vw;
     }
 
     nav {
