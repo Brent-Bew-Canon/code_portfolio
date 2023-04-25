@@ -46,16 +46,15 @@ h1 {
     object-fit: fill;
     height: 20vh;
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
+    justify-content: center;
+    align-items: center;
 }
 
 .hero h3 {
     border: 1px solid rgb(57, 129, 255);
     background-color: rgb(150, 201, 218);
     color: rgb(62, 64, 64);
-    margin-right: 10px;
-    margin-bottom: 10px;
+    margin-left: 10px;
     text-align: right;
     padding: 5px 5px 5px 5px;
 }
